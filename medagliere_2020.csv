@@ -1,24 +1,24 @@
-stato,oro,argento,bronzo
-People's Republic of China,34,25,17
-United States of America,31,35,30
-Japan,24,10,15
-Great Britain,18,18,19
-COR,17,23,22
-Australia,17,6,20
-Germany,9,10,16
-Netherlands,9,10,11
-Italy,8,10,18
-France,7,11,9
-New Zealand,7,6,6
-Republic of Korea,6,4,9
-Cuba,6,3,4
-Hungary,5,7,5
-Canada,5,6,9
-Brazil,4,4,8
-Poland,4,3,4
-Czech Republic,4,3,2
-Spain,3,5,5
-Switzerland,3,4,6
-Croatia,3,3,2
-Jamaica,3,1,3
-Belgium,3,1,1
+stato,,oro,argento,bronzo
+People's Republic of China,ASIA,34,25,17
+United States of America,AMER,31,35,30
+Japan,ASIA,24,10,15
+Great Britain,EURO,18,18,19
+COR,ASIA,17,23,22
+Australia,OCEA,17,6,20
+Germany,EURO,9,10,16
+Netherlands,EURO,9,10,11
+Italy,EURO,8,10,18
+France,EURO,7,11,9
+New Zealand,OCEA,7,6,6
+Republic of Korea,ASIA,6,4,9
+Cuba,AMER,6,3,4
+Hungary,EURO,5,7,5
+Canada,AMER,5,6,9
+Brazil,AMER,4,4,8
+Poland,EURO,4,3,4
+Czech Republic,EURO,4,3,2
+Spain,EURO,3,5,5
+Switzerland,EURO,3,4,6
+Croatia,EURO,3,3,2
+Jamaica,AMER,3,1,3
+Belgium,EURO,3,1,1
